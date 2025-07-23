@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TrabalhoBosco-main.iml" filepath="$PROJECT_DIR$/TrabalhoBosco-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GPV.iml" filepath="$PROJECT_DIR$/.idea/GPV.iml" />
     </modules>
   </component>
 </project>
