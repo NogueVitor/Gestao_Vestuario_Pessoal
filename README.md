@@ -1,6 +1,6 @@
 # Gestor de Vestuário Pessoal (GVP) - Sistema Completo de Organização de Guarda-Roupa
 
-## 📚 Visão Geral
+## Visão Geral
 
 O **Gestor de Vestuário Pessoal (GVP)** é um sistema desktop desenvolvido em Java com interface gráfica Swing para organização e controle completo do guarda-roupa pessoal. O projeto é o trabalho final da disciplina CK0235 - TÉCNICAS DE PROGRAMAÇÃO I que oferece funcionalidades avançadas como gerenciamento de itens, criação de looks, controle de empréstimos, histórico de lavagens e estatísticas detalhadas de uso.
 
